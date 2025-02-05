@@ -40,3 +40,7 @@ let StringNumber = String(someNumber)
 console.log(typeof StringNumber);
 console.log(StringNumber);
 /*-------------------conversion to String End----------------------*/
+
+
+
+/*******************       OPERATIONS        *********************** */
